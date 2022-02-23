@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Shaftsbury's grand-jury vindicated from the aspersions cast on them in the late address from some of the Middle-Temple, London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39417</idno>
+            <idno type="STC">Wing E81</idno>
+            <idno type="STC">ESTC R38854</idno>
+            <idno type="EEBO-CITATION">18180648</idno>
+            <idno type="OCLC">ocm 18180648</idno>
+            <idno type="VID">106913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1123:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Shaftsbury's grand-jury vindicated from the aspersions cast on them in the late address from some of the Middle-Temple, London</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwyn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106913:1" rendition="simple:additions"/>
+            <head>THE Earl of Shaftsbury's GRAND-JURY VINDICATED From the Aſperſions caſt on them in the late Addreſs from ſome of the <hi>Middle-Temple, London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving little diverſion beſides the reading of <hi>Gazets</hi> and other <hi>News-Pamphlets,</hi> that of <hi>Feb.</hi> 20. 1681. came to me of courſe, which tells us of a <hi>Declaration</hi> Preſented to His Majeſty by <hi>Edm. Saunders</hi> Eſq; <hi>Councellor at Law,</hi> and ſeveral other Gentlemen of the <hi>Middle-Temple;</hi> and Signed by the <hi>Gentle<g ref="char:EOLhyphen"/>men</hi> of that <hi>Society:</hi> This indeed ſurpriſed me at firſt: but finding no more of the <hi>Ancients</hi> of the <hi>Bar</hi> named, nor the <hi>Bench</hi> ſo much as mention'd; I concluded preſently that 'twas the <hi>Act</hi> only of ſome <hi>Good-fellows</hi> of the <hi>Houſe,</hi> who being met at a <hi>Tavern,</hi> and better <hi>filled</hi> with <hi>Wine</hi> than <hi>Law,</hi> thought themſelves fit to give an Opinion of all things and perſons; and preſuming that Number would add weight to their Paper, ſtiled themſelves <hi>The Gentlemen of the Society;</hi> to look big in a <hi>Ga<g ref="char:EOLhyphen"/>zette,</hi> how unvaluable ſoever in their <hi>Chambers.</hi> Nor is it to be wondred at, If a Low-<hi>Birth,</hi> narrow <hi>Fortune,</hi> and Debauched <hi>Life,</hi> do ſo ſlaviſhly expoſe ſome men to any great <hi>Temptation,</hi> as to underva<g ref="char:EOLhyphen"/>lue their <hi>Profeſſion,</hi> and abandon <hi>Religion.</hi> The <hi>Laws</hi> of <hi>England</hi> are ſo tender of mens Lives, that no one can ſuffer Death but by the averment of <hi>twice</hi> twelve men, that he committed ſuch a <hi>Fact</hi> for which that Puniſhment is awarded, and there<g ref="char:EOLhyphen"/>fore however of late (for the advancement of Pow<g ref="char:EOLhyphen"/>er by depriving men of half that ſafety which the Law gives them) it hath been given in <hi>Charge</hi> to <hi>Grand-Juries</hi> to find upon a probable Evidence, and always the higheſt Offence, becauſe it may be leſſen<g ref="char:EOLhyphen"/>ed at a <hi>Tryal,</hi> where 'tis expected the influence of a <hi>Court</hi> ſhould be great enough to hang or ſave, ac<g ref="char:EOLhyphen"/>cording to Directions; Yet let every true <hi>Engliſh</hi>
+               <g ref="char:EOLhyphen"/>man, when he ſerves upon this <hi>Duty,</hi> conſider what care the <hi>Law</hi> takes in their returns, not only that they be <hi>good</hi> and <hi>lawful</hi> men; but that they be of the <hi>Vicinage,</hi> and ſo are preſumed to have a clearer knowledge both of the nature of the <hi>Fact, Credit</hi> of the <hi>Witneſſes,</hi> and <hi>Reputation</hi> of the <hi>Party</hi> ac<g ref="char:EOLhyphen"/>cuſed, than any other perſons tho' equally able and honeſt, yet not living within thoſe limits can reaſo<g ref="char:EOLhyphen"/>nably be imagined to have; For as my Lord Chief Juſtice <hi>Vaughan</hi> obſerves in <hi>Buſhels</hi> Caſe, They may have Evidence from their own <hi>Perſonal</hi> Knowledg, by which they may be ſatisfied, and ſometimes are, of the <hi>incredibility</hi> of the <hi>Witneſſes;</hi> and as a <hi>Jury</hi> cannot diſcharge that Truſt which the <hi>Law</hi> repo<g ref="char:EOLhyphen"/>ſeth in them, if they do not well weigh the <hi>Credit</hi> of their <hi>Evidence</hi> and all <hi>Circumſtances</hi> relating to the <hi>Fact;</hi> ſo they cannot ſatisfie their Conſci<g ref="char:EOLhyphen"/>ences if they ſhall deliver a <hi>Verdict</hi> otherwiſe than they believe: Therefore my Lord Chief Juſtice <hi>Vaughan</hi> in <hi>Buſhel's Caſe</hi> p. 140. makes this one fault in that Return, <hi>That the Jurors are not ſaid to have acquitted the perſons Indicted againſt full and mani<g ref="char:EOLhyphen"/>fest Evidence, Corruptly, and knowing the ſaid Evi<g ref="char:EOLhyphen"/>dence to be full and manifeſt againſt the Perſons indi<g ref="char:EOLhyphen"/>cted;</hi> for how <hi>manifeſt</hi> ſoever the <hi>Evidence</hi> was, if it were not ſo to <hi>them,</hi> and that they believed it <hi>ſuch,</hi> it was ſo far from being a <hi>Fault,</hi> that it was their <hi>Duty,</hi> becauſe ſworn to give their <hi>Verdict</hi> ac<g ref="char:EOLhyphen"/>cording to the beſt of their knowledg; and they had been forſworn, at leaſt <hi>in foro Conſcientiae</hi> to have done otherwiſe; ſo that according to the opinion of this great and learned <hi>Judg,</hi> a <hi>Jury</hi> muſt, and cannot otherwiſe be guided than by their <hi>thoughts</hi> of the <hi>Evidence.</hi> What a <hi>Court</hi> may call <hi>clear and plain proof</hi> (as they have done in the late and unuſual way of examination of Witneſſes) may appear far otherwiſe to them, and for reaſons weighty and convincing; and whatever men may ſay or write yet ſince they cannot believe as they pleaſe, it is not in their power to alter their Judgment accord<g ref="char:EOLhyphen"/>ing to anothers direction. So that there might be motives ſtrong enough to induce the <hi>E</hi>'s. of <hi>S. Jury</hi> to acquit him, though there had been as many more ſuch witneſſes, and had all as poſitively ſworn the Treaſon, as thoſe that appeared; <hi>as</hi> the conſiderati<g ref="char:EOLhyphen"/>on of the <hi>Evidence</hi> it ſelf, how improbable <hi>ſome things</hi> were, and how ireconcilable <hi>others</hi> to common ſenſe and beleif; how infamous the <hi>Witneſſes</hi> were, and what <hi>applications</hi> they had made to the <hi>City</hi> (and perhaps to ſome of them) for a ſubſiſtence, before they entred into this <hi>Conſpiracy;</hi> the ſtate of my L. <hi>S.</hi> as he ſtood in the way of <hi>Popiſh</hi> deſigns; and therefore neceſſary to be deſtroyed, and by no means ſo advantagious to their Cauſe, as under the colour of a <hi>Proteſtant Plot</hi> to be proved by <hi>Popiſh Evidence.</hi> How unlikely a <hi>man</hi> of his <hi>Prudence</hi> was to diſcover ſuch a <hi>Deſign</hi> to perſons that might <hi>be<g ref="char:EOLhyphen"/>tray,</hi> but could never give the leaſt <hi>advantage</hi> to it;
+<pb facs="tcp:106913:2"/> how fatal the <hi>Kings Death</hi> muſt needs be to a <hi>man</hi> of his <hi>Fortune,</hi> eminently irreconcilable to <hi>Popery</hi> and a <hi>Popiſh S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cceſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r:</hi> the <hi>Jurors</hi> might have under their conſideration theſe or the like circumſtances, and from them conclude, that ſuch thorough and impro<g ref="char:EOLhyphen"/>bable <hi>ſwearing</hi> was not <hi>gratis;</hi> and upon the ſame reaſons that ſuch a party as would be at the charge of ſuch and ſo many <hi>Witneſſes,</hi> would not ſpare for Price, nor want opportunity to convey into his Clo<g ref="char:EOLhyphen"/>ſet the horrid Paper that was found there. It is worth conſideration that every Witneſs comes to a Grand-Jury under the Obligation of this Oath, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>The Evidence that you ſhall give to the Grand In<g ref="char:EOLhyphen"/>queſt upon this Bill of Indictment, ſhall be the truth, the whole truth, and nothing but the truth: ſo help you God.</hi>
+            </p>
+            <p>So that hearing all that can be ſaid againſt the <hi>Priſoner,</hi> it were very unreaſonable if they ſhould not be ſo tender of his life, as not to hazard it at a further <hi>Tryal,</hi> if what is ſaid on one ſide be not to them ſufficiently convict<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve; and how can a conſci<g ref="char:EOLhyphen"/>entious <hi>Juror</hi> aver <hi>that</hi> upon his <hi>Oath,</hi> the truth <hi>whereof</hi> he is not ſatisfied in his Judgment? For the form of their preſentment runs thus, <hi>The Jurors up<g ref="char:EOLhyphen"/>on their Oaths do preſent, that</hi> A. B. <hi>is guilty of Trea<g ref="char:EOLhyphen"/>ſon, Murder, or Felony;</hi> for they muſt upon their <hi>Oaths</hi> aver the <hi>Fact</hi> as well as the <hi>Subſequent Jury,</hi> (or elſe the <hi>Priſoner</hi> can never be <hi>Convicted</hi>) and therefore ought to be as careful in their <hi>Verdicts,</hi> and not find a <hi>Bill</hi> upon that <hi>Evidence</hi> tho' of the <hi>Grand Jury,</hi> which they would not upon the ſame <hi>Evidence</hi> find if of the <hi>other,</hi> the <hi>Priſoner</hi> no way defeating it upon his Tryal. Of what eſteem <hi>Grand-Juries</hi> were in former times in the <hi>Tryal</hi> of mens lives, (how inſignificant ſoever ſome would render them now, by directing them to find in <hi>Courſe</hi> and <hi>Form</hi>) may be eaſily collected from the <hi>Statute 3 H. 8. Chap.</hi> 12. Which though cited upon all oc<g ref="char:EOLhyphen"/>caſions to Juſtifie the Authority in altering of <hi>Pan<g ref="char:EOLhyphen"/>nels,</hi> yet the reaſon is not obſerved why that power of reforming was ſo intruſted; the words are theſe: <hi>Whereas great oppreſſions have been within moſt parts of England by the ſubtilty and undue demeanour of Sheriffs by making and returning for the body of the ſhires at every Seſſions the names of ſuch perſons who for the benefit of ſuch Sheriffs will be wilfully for<g ref="char:EOLhyphen"/>ſworn at the ſolicitation of ſuch Sheriffs and their miniſters; By reaſon whereof many and divers ſub<g ref="char:EOLunhyphen"/>ſtantial perſons, the Kings true Subjects, contrary to equity and rigbt, have div<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs and many times wrong<g ref="char:EOLhyphen"/>fully been Indicted of divers Murthers, Felonies, and other misbehaviours by their covin and falſehood, to the utter undoing of their lives, loſs of their goods and lands.</hi> By the <hi>Preamble</hi> of this <hi>Act,</hi> 'tis plain that this power of <hi>Reforming</hi> was given to no other in<g ref="char:EOLhyphen"/>tent, than that the <hi>Subject</hi> might have honeſt <hi>Grand-Juries,</hi> men of ſuch integrity and under<g ref="char:EOLhyphen"/>ſtanding, as will-neither be corrupted nor frighted into a falſe averment of any <hi>Indictment,</hi> and there<g ref="char:EOLhyphen"/>by put the <hi>Priſoner</hi> in hazard of his life at a farther <hi>Tryal;</hi> which was the only crime of which thoſe <hi>Grand Juries</hi> ſo corruptly returned could be guilty; for they could do no more than find the <hi>Indictment</hi> as it was brought to them, and the <hi>Priſoner</hi> muſt after<g ref="char:EOLhyphen"/>wards come upon another Tryal, and before <hi>Juſti<g ref="char:EOLhyphen"/>ces</hi> too, to make his defence. And yet the <hi>Statute</hi> ſaith, <hi>theſe Indictments have been to the utter undoing of the lives and fortunes of divers ſubſtantial perſons the Kings true Subjects,</hi> eſpecially when found o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> courſe in that manner and form as they are ſent to them; which Jurors ought particularly to conſider in this age, where violent proſecutions are ſo frequent, and many undone by great fines upon haſty expreſ<g ref="char:EOLhyphen"/>ſions, (or parhaps pleaſed with the <hi>Libels</hi> of the age, and having no other malice to the Govern<g ref="char:EOLhyphen"/>ment than reading the <hi>Witt</hi> of the <hi>Phamphlets,</hi> are made the <hi>Publiſhers,</hi> that they may be <hi>Fined</hi> to their ruine, if they prove not perſons of a conſci<g ref="char:EOLhyphen"/>ence like theſe Gentlemen, fully complying to every thing in faſhion) leſt by a common rumour they miſtake that for form which is the eſſential part of every <hi>Indictment,</hi> and the conſideration thereof abſolutely neceſſary in their giving a <hi>Verdict,</hi> be<g ref="char:EOLhyphen"/>cauſe the ſafety or deſtruction of the <hi>Priſoner</hi> de<g ref="char:EOLhyphen"/>pends as much upon their finding his <hi>Intention</hi> as his <hi>Fact:</hi> For all <hi>Indictments</hi> in capital <hi>Caſes</hi> muſt be laid <hi>Feloniouſly, Traiterouſly, Maliciouſly, Sediti<g ref="char:EOLhyphen"/>ouſly,</hi> with intention to <hi>raiſe diſcord between the King and his People,</hi> or in ſuch like expreſſions de<g ref="char:EOLhyphen"/>clearing the intention of the offender. The <hi>Bill</hi> thus drawn, the Proſecutor looks no farther than the proving thoſe <hi>VVords</hi> or <hi>Actions</hi> to which that malice is ſo affixed. Now if a <hi>Jury</hi> affirms the <hi>Indict<g ref="char:EOLhyphen"/>ment</hi> thus formed as hath been the common courſe, then indeed the <hi>Party</hi> is in <hi>Law</hi> ſuppoſed <hi>Guilty</hi> of all the <hi>Malice,</hi> as it is there aſſerted, not that the <hi>Law</hi> preſumes the <hi>Malice</hi> (as of late hath been too much inſinuated into Juries but becauſe the Jurors upon their <hi>Oaths</hi> do find the <hi>Fact</hi> committed with ſuch <hi>Malicious Intentions;</hi> for a cunning <hi>Clerk,</hi> or learned <hi>Attorney General,</hi> may with his additions ſo dreſs up an ordinary <hi>Treſpaſs,</hi> as to look like a for<g ref="char:EOLhyphen"/>midable <hi>Treaſon,</hi> and bring a man in queſtion for his <hi>Life</hi> upon the moſt trifling offence, if a wiſe diſcern<g ref="char:EOLhyphen"/>ing <hi>Jury</hi> ſhall not think fit to take off the Varniſh, and find the true naked <hi>fact</hi> as it ſhall appear to them.</p>
+            <p>In the great conteſted caſe of <hi>Barnardiſton</hi> and the <hi>Sheriff</hi> of <hi>Suffolk,</hi> if the Jury had found only a falſe Return, and not found it to be done <hi>Malici<g ref="char:EOLhyphen"/>ouſly and knowingly,</hi> as was aſſerted in the Declara<g ref="char:EOLhyphen"/>tion, who can beleive that my <hi>Lord Chief Juſtice Hale,</hi> and his then learned brethren in the <hi>Kings-Bench,</hi> would have given <hi>Judgment</hi> for the <hi>Plaintiff;</hi> the knowledge and malice of the <hi>Defendant</hi> ſo found by the <hi>Jury,</hi> was the ground of that <hi>Judgment.</hi> As in the caſe of <hi>Pen</hi> and <hi>Mead,</hi> who being Indicted for certain <hi>Treſpaſſes</hi> and <hi>Contempts,</hi> unlawful <hi>Aſ<g ref="char:EOLhyphen"/>ſemblies</hi> and <hi>Tumults,</hi> to the diſturbance of the <hi>Peace,</hi> their <hi>Intention</hi> appearing otherwiſe, were Juſtly acquitted; for though the <hi>Evidence</hi> was very plain that they with a great number beſides were met together, yet the <hi>Jurors</hi> being upon their <hi>Oaths</hi> convinced That meeting of theirs was not with any <hi>Intention</hi> to raiſe <hi>Tumults,</hi> or diſturb the <hi>Peace,</hi> as was charged upon it in the <hi>Indictment,</hi> could not bring them in <hi>Guilty.</hi> And for want of this careful diſtinguiſhing in <hi>Juries,</hi> we ſhall in a lit<g ref="char:EOLhyphen"/>tle time (if <hi>London</hi> preſerves its <hi>Charter,</hi> have the <hi>Apprentices Riots</hi> in the <hi>Eaſter</hi> holy-days when they go to pull down a <hi>Bawdy-houſe,</hi> made a new <hi>Trea<g ref="char:EOLhyphen"/>ſon,</hi> by the only addition of the word <hi>Traiterous</hi> to this accuſtomed riotous offence; and nothing ſhall for ever hereafter be a <hi>Riot</hi> (although our <hi>Old Laws</hi> have known ſome great tumults to be no more) when a vigorous <hi>Attorney General</hi> ſhall think fit to call it <hi>Treaſon</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed for <hi>R. Baldwyn,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
